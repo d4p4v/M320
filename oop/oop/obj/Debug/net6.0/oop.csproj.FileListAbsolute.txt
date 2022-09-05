@@ -1,0 +1,15 @@
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\bin\Debug\net6.0\oop.exe
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\bin\Debug\net6.0\oop.deps.json
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\bin\Debug\net6.0\oop.runtimeconfig.json
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\bin\Debug\net6.0\oop.dll
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\bin\Debug\net6.0\oop.pdb
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\obj\Debug\net6.0\oop.csproj.AssemblyReference.cache
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\obj\Debug\net6.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\obj\Debug\net6.0\oop.AssemblyInfoInputs.cache
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\obj\Debug\net6.0\oop.AssemblyInfo.cs
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\obj\Debug\net6.0\oop.csproj.CoreCompileInputs.cache
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\obj\Debug\net6.0\oop.dll
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\obj\Debug\net6.0\refint\oop.dll
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\obj\Debug\net6.0\oop.pdb
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\obj\Debug\net6.0\oop.genruntimeconfig.cache
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\oop\oop\obj\Debug\net6.0\ref\oop.dll
