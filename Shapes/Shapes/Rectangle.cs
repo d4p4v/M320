@@ -10,10 +10,30 @@ namespace Shapes
     public class Rectangle
     {
         // Ein Feld mit einem für Felder typischen Zugriffsmodifizierer
-        private string name;
-        private int width = 15;
-        private int height = 15;
-        private int radius;
+        private string name = "Black Rectangle";
+        private int width = 10;
+        private int height = 10;
+        private int radius = 6;
+
+        // Konstruktoren
+        public Rectangle(string name, int width, int height, int radius)
+        {
+            this.name = name;
+            this.width = width;
+            this.height = height;
+            this.radius = radius;
+        }
+
+        public Rectangle(Color color) : this(color.Name + " Rectangle", 10, 10, 10)
+        {
+            this.color = color;
+        }
+
+        public Rectangle(int width, int height)
+        {
+            this.width = width;
+            this.height = height;
+        }
 
         // Ein Feld, dessen Wert während der Lebensdauer eines Objekts nicht verändert werden kann.
         private readonly int area;
