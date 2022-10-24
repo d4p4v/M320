@@ -8,11 +8,12 @@
             {
                 int n1 = ReadInt("First number");
                 int n2 = ReadInt("Second number");
+                int n3 = ReadInt("Third number");
 
-                Operations.Add(n1, n2);
-                Operations.Subtract(n1, n2);
-                Operations.Multiply(n1, n2);
-                Operations.Divide(n1, n2);
+                Console.WriteLine(Operations.Add(n1, n2, n3));
+                Console.WriteLine(Operations.Subtract(n1, n2, n3));
+                Console.WriteLine(Operations.Multiply(n1, n2, n3));
+                Console.WriteLine(Operations.Divide(n1, n2, n3));
             }
         }
 
