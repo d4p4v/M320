@@ -1,0 +1,15 @@
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\KSB OneDrive\OneDrive - Kt. SG BLD\Module\M320\repos\M320\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
